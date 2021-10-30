@@ -70,3 +70,5 @@ Basic tutorial for C# programming language.
 * Lesson24:
   - method `Equals()`
   - keyword `this`
+* Lesson25:
+  - inheritance
