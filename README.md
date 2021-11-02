@@ -72,3 +72,6 @@ Basic tutorial for C# programming language.
   - keyword `this`
 * Lesson25:
   - inheritance
+  - keyword `abstract`
+* Lesson26:
+  - keyword `base`
