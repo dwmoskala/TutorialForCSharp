@@ -74,4 +74,4 @@ Basic tutorial for C# programming language.
   - inheritance
   - keyword `abstract`
 * Lesson26:
-  - keyword `base`
+  - keywords `base`, `virtual`, `override` and `sealed`

@@ -2,15 +2,22 @@
 
 namespace Lesson26
 {
-    class Character
+    abstract class Character
     {
+        public string name;
+        public int life;
+
         public Character(string name, int life)
         {
             this.name = name;
             this.life = life;
         }
 
-        public string name;
-        public int life;
+        //public virtual void Movement()
+        //{
+        //    Console.WriteLine("Movement of a character.");
+        //}
+
+        public abstract void Movement();
     }
 }
