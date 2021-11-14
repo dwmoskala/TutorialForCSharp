@@ -8,7 +8,7 @@ Basic tutorial for C# programming language.
 
 ## Content
 * Lesson01:
-  - variables types
+  - variable types
   - methods `Console.WriteLine()`, `Console.Write()` and `Console.ReadKey()`
 * Lesson02:
   - arithmetic and logical operations
@@ -20,7 +20,7 @@ Basic tutorial for C# programming language.
   - comments
   - concatenation
 * Lesson06:
-  - casting and types convertions
+  - casting and type convertions
   - method `Console.ReadLine()`
 * Lesson07:
   - method `Random.Next()`
@@ -36,7 +36,7 @@ Basic tutorial for C# programming language.
   - methods `Max()`, `Min()` and `Sum()`
 * Lesson11:
   - command line arguments
-  - methods overloads
+  - method overloads
 * Lesson12:
   - return types
 * Lesson13:
@@ -75,3 +75,8 @@ Basic tutorial for C# programming language.
   - keyword `abstract`
 * Lesson26:
   - keywords `base`, `virtual`, `override` and `sealed`
+* Lesson27:
+  - interfaces
+* Lesson28:
+  - structures
+  - keyword `operator`
