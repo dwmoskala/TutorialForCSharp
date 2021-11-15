@@ -80,3 +80,5 @@ Basic tutorial for C# programming language.
 * Lesson28:
   - structures
   - keyword `operator`
+* Lesson29:
+  - enumeration types
