@@ -82,3 +82,5 @@ Basic tutorial for C# programming language.
   - keyword `operator`
 * Lesson29:
   - enumeration types
+* Lesson30:
+  - exceptions
