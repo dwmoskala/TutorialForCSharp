@@ -8,11 +8,15 @@ namespace Lesson30
         {
             try
             {
-                Console.WriteLine(Division(0));
+                Console.WriteLine(Division(5));
             }
             catch (DivideByZeroException e)
             {
                 Console.WriteLine("Do not divide by 0! " + e.Message);
+            }
+            catch (DivideByFiveException e)
+            {
+                Console.WriteLine("Exception with dividing by 5.\n" + e.Message);
             }
             catch (Exception e)
             {
@@ -30,7 +34,7 @@ namespace Lesson30
         {
             if (a == 5)
             {
-                throw new Exception("Do not divide by 5!");
+                throw new DivideByFiveException("An error occured: ");
             }
 
             return 10 / a;
