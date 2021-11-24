@@ -84,3 +84,5 @@ Basic tutorial for C# programming language.
   - enumeration types
 * Lesson30:
   - exceptions
+* Lesson31:
+  - keywords `is` and `as`
