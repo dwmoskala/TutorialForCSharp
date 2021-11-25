@@ -86,3 +86,5 @@ Basic tutorial for C# programming language.
   - exceptions
 * Lesson31:
   - keywords `is` and `as`
+* Lesson32:
+  - creating, reading and writing to text files
