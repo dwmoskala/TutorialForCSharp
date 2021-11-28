@@ -88,3 +88,5 @@ Basic tutorial for C# programming language.
   - keywords `is` and `as`
 * Lesson32:
   - creating, reading and writing to text files
+* Lesson33:
+  - recursive methods
