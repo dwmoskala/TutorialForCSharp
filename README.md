@@ -90,3 +90,5 @@ Basic tutorial for C# programming language.
   - creating, reading and writing to text files
 * Lesson33:
   - recursive methods
+* Lesson34:
+  - exercise
